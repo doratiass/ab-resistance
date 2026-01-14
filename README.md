@@ -73,7 +73,7 @@ After matching, a multivariable logistic regression model (weighted by IPCW) was
 If you use this repository in your research, please cite the following article:
 
 ```         
-Chowers, M., Atias, D., Gottesman, B., Low, M., & Obolski, U. (2025). *Estimating antibiotic resistance following antibiotic treatment in outpatients: a retrospective study.* [Journal Name, Volume(Issue), Pages]. DOI: [doi]
+Chowers, M., Atias, D., Gottesman, B., Low, M., & Obolski, U. (2025). *Estimating antibiotic resistance following antibiotic treatment in outpatients: a retrospective study.* Clinical Microbiology and Infection. https://doi.org/10.1016/j.cmi.2025.11.013
 ```
 
 **License**
